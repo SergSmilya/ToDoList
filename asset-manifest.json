@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/SergSmilya/ToDoList/static/css/main.1672e613.css",
     "main.js": "/SergSmilya/ToDoList/static/js/main.11b2366f.js",
     "index.html": "/SergSmilya/ToDoList/index.html",
-    "main.1672e613.css.map": "/SergSmilya/ToDoList/static/css/main.1672e613.css.map",
     "main.11b2366f.js.map": "/SergSmilya/ToDoList/static/js/main.11b2366f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1672e613.css",
     "static/js/main.11b2366f.js"
   ]
 }
